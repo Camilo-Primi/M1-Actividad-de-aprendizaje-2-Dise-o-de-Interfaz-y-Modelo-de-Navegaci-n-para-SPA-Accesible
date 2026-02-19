@@ -30,10 +30,7 @@ Refleje buenas prácticas de arquitectura conceptual.
 
 🔗 URLs de Figma
 Prototipo Interactivo
-https://figma.com/file/XXXXXXXX/SkillThemes-Prototype
-
-Archivo de Diseño (Modo edición o view only)
-https://figma.com/file/XXXXXXXX/SkillThemes-DesignSystem
+https://www.figma.com/design/nMqlZZzsWpXnOaIoY0IAiY/Untitled?node-id=0-1&p=f&t=3HcvhS4UBjkubWR0-0
 
 
 📌 Nota: El enlace debe estar configurado en modo:
