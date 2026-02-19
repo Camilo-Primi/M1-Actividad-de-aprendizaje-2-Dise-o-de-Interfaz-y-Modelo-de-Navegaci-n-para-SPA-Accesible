@@ -37,29 +37,7 @@ https://www.figma.com/design/nMqlZZzsWpXnOaIoY0IAiY/Untitled?node-id=0-1&p=f&t=3
 
 “Anyone with the link – View”
 
-🗂️ Estructura de Archivos del Repositorio
-SkillThemes/
-│
-├── README.md
-├── docs/
-│   ├── racional_decisiones.md
-│   ├── swebok_conexion.md
-│   ├── arquitectura.md
-│   └── accesibilidad_wcag.md
-│
-├── diagrams/
-│   ├── componentes.puml
-│   ├── navegacion.puml
-│   └── clases.puml
-│
-├── assets/
-│   ├── mockups/
-│   ├── wireframes/
-│   └── design-system/
-│
-└── export/
-    ├── pdf_prototipo.pdf
-    └── capturas.png
+
 
 🧱 Tipo de Repositorio
 
@@ -80,22 +58,6 @@ Evidencia de último commit antes del plazo
 ✔ Enlace funcional a Figma
 ✔ Diagramas UML incluidos
 ✔ Último commit realizado antes del plazo establecido
-
-🧠 Profesionalmente esto demuestra
-
-Organización estructurada
-
-Trazabilidad entre diseño y documentación
-
-Pensamiento arquitectónico
-
-Buenas prácticas de ingeniería
-
-Preparación para implementación futura
-
-Si quieres, puedo:
-
-Redactarte el README completo en formato profesional listo para pegar.
 
 Ajustarlo a normas APA si es entrega universitaria.
 
